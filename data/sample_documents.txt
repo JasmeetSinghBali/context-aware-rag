@@ -1,0 +1,29 @@
+The system handles peak load using horizontal scaling and load balancing across multiple instances.
+
+Autoscaling policies dynamically provision new compute resources when traffic increases.
+
+Fault tolerance is achieved through redundancy, failover systems, and distributed deployment.
+
+Caching layers reduce response latency during high traffic periods.
+
+Message queues decouple services and smooth traffic spikes in distributed systems.
+
+Load balancing ensures even distribution of requests across backend services.
+
+Microservices architecture improves scalability and isolates system failures.
+
+Distributed databases replicate data across regions for high availability.
+
+Rate limiting protects the system from excessive request bursts.
+
+Circuit breakers prevent cascading failures in distributed architectures.
+
+Observability tools help monitor system performance under stress.
+
+Edge computing reduces latency by processing data closer to users.
+
+Sharding distributes database load across multiple nodes.
+
+Retry mechanisms improve reliability in transient failure scenarios.
+
+Backpressure handling ensures system stability during overload conditions.
